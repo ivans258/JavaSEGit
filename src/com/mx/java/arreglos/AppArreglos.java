@@ -9,6 +9,9 @@ public class AppArreglos {
 		
 		GeneraArreglo instancia= new GeneraArreglo();
 		instancia.llenaArreglo(5);
+		
+		GeneraArreglo instanciaTest= new GeneraArreglo();
+		instanciaTest.llenaArreglo(20);
 	}
 	
 
